@@ -1,0 +1,8 @@
+# モデルファイル
+src/models/*.pt
+
+# データセット画像
+src/dataset/dataset_images/
+src/dataset/frames_out/
+src/dataset/dataset_test/
+src/dataset/*.tar.gz
